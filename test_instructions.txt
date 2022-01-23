@@ -1,0 +1,24 @@
+Create a web test solution using BDD approach. Submit to public GitHub repository. Share the link for review.
+
+Note: Please don't use company name or any website in anywhere in the project. Use your prefered editor. You don't have to use codility code editor.
+
+Web Automation Task
+Develop a WebTest solution that automates below simple test scenario, composed as a BDD scenarios. The target for the test is the dummy web site: https://testscriptdemo.com (It is HTTS)
+
+Acceptance Criteria:
+GIVEN I add four different products to my Wish list
+WHEN I view my wishlist table
+THEN I find total four selected items in my Wish list
+WHEN I search for lowest price product
+AND I am able to add the lowest price item to my cart
+THEN I am able to verify my product in my cart
+
+Requirements:
+- Build a test project that includes automation of the above scenario
+- Please ensure you are using BDD framework (SPecFlow, Serenity BDD, Cucumber, JBehave, etc).
+- Use the programing language as per the job specification
+- User page object model (POM) and OOps concept
+- Share code in a public GitHub repository for review. Share GitHub link. Use readme file in project for execution instructions and attach screenshot of execution report.
+- Share further improvements that could be considered to develop the framework as notes on codility alond with the GitHub link.
+
+
